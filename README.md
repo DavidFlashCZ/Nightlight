@@ -8,7 +8,7 @@ Please report any issues you find on the website or share your idea for a new fe
 
 When submitting issues, please use this format or at least specify all below:
 
-1. When did this issues happen?
+1. When did this issue happen?
 2. What device were you using?
 3. What browser were you using?
 4. How to recreate this issue?
