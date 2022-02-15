@@ -2,7 +2,10 @@
 A web where anyone can share anything from pictures to audio files. We don't share your personal information with anyone. 
 
 # This is a repository for issues/requests
-Please report any issues you find on the website or share your idea for a new feature/change.
+Report any issues you find on the website or share your idea for a new feature/change.
+
+**-> Please visit our Wiki before reporting anything or asking for help**
+https://github.com/DavidFlashCZ/Nightlight/wiki
 
 **Issues**
 
