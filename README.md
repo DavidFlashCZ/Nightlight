@@ -1,6 +1,9 @@
 # Nightlight
 A web where anyone can share anything from pictures to audio files. We don't share your personal information with anyone. 
 
+YouTube tutorial for beginners:
+https://www.youtube.com/watch?v=7qJ_vanzA6M
+
 # This is a repository for issues/requests
 Report any issues you find on the website or share your idea for a new feature/change.
 
