@@ -5,21 +5,20 @@ A web where anyone can share anything from pictures to audio files. We don't sha
 
 # Last Changes:
 
-5/21/2022
+9/8/2022
 
-Open Beta 0.1.5
+Open Beta 0.1.9
 
 Features
 
-- NVA (Nightlight Voice Assistant) Currently in an early state of development, NVA allows you to interact with Nightlight by just simply saying things!
+- Apple iOS web app now available!
 
-(Available on Google Chrome, Microsoft Edge, Apple Safari and Samsung Internet)
-
-- Changelog Added Changelog page on Nightlight so even users that aren't on this Discord server can see changes
-
-Bug fixes/Improvements
-
-- NLAPI 2.0 is coming soon NLAPI 2.0 (Nightlight API 2.0) brings a completely new code structure to Nightlight's main API. This new API is a much faster and much cleaner than NLAPI 1.0. This will also allow the Developers of Nightlight to program with ease and later on will also allow other developers to contribute.
+Tutorial
+1. Open Safari
+2. Go to https://night-light.cz/home
+3. Click the share bottom on the bottom
+4. Click "Add page to home screen"
+That's it! A client will be installed to your Apple device and will behave like a regular app downloaded from the App Store
 
 # This is a repository for issues/requests
 Report any issues you find on the website or share your idea for a new feature/change.
